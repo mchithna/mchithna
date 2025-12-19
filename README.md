@@ -8,8 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndW95Z3R4ZzRreHdnZzRreHdnZzRreHdnZzRreHdnZzRreHdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSRTsA08S3O6p4N3/giphy.gif" />
-
+<img align="right" height="200" src="lofi.gif" />
 ###
 
 <h4 align="left">My name is Minal Chithna.<br>🎓 CS Student @ NSBM</h4>
