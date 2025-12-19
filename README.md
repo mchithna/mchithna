@@ -8,8 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="[https://tenor.com/r0T7l7PVCpm.gif]https://tenor.com/en-GB/view/lofi-gif-14982051479652143382)"  />
-
+<img align="right" height="200" src="https://media.tenor.com/en-GB/view/lofi-gif-14982051479652143382.gif" />
 ###
 
 <h4 align="left">My name is Minal Chithna.<br>🎓 CS Student @ NSBM</h4>
