@@ -2,18 +2,19 @@
 
 ###
 
+<img align="right" height="200" src="lofi.gif"  />
+
+###
+
 <h3 align="left">About me</h3>
 
 ###
 
+<h4 align="left"> My name is Minal Chithna.<br> 🎓 CS Student @ NSBM <br> 🎮 love gaming <br> ☁️ interested in cloud computing </h4>
+
+###
+
 <br clear="both">
-
-<img align="right" height="200" src="lofi.gif" />
-###
-
-<h4 align="left">My name is Minal Chithna.<br>🎓 CS Student @ NSBM</h4>
-
-###
 
 <h3 align="left">I code with</h3>
 
