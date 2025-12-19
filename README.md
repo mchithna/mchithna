@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.tenor.com/en-GB/view/lofi-gif-14982051479652143382.gif" />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndW95Z3R4ZzRreHdnZzRreHdnZzRreHdnZzRreHdnZzRreHdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSRTsA08S3O6p4N3/giphy.gif" />
 
 ###
 
