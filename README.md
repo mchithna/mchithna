@@ -8,8 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://tenor.com/r0T7l7PVCpm.gif"  />
-
+<div class="tenor-gif-embed" data-postid="14982051479652143382" data-share-method="host" data-aspect-ratio="1.34595" data-width="100%"><a href="https://tenor.com/view/lofi-gif-14982051479652143382">Lofi GIF</a>from <a href="https://tenor.com/search/lofi-gifs">Lofi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 
 <h4 align="left">My name is Minal Chithna.<br>🎓 CS Student @ NSBM</h4>
